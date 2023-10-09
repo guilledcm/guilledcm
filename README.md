@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilledcm&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/guilledcm/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilledcm&show_icons=true&theme=tokyonight&layout=compact)  
 
-https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{guilledcm}1212%2Fhit-counter
