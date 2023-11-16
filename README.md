@@ -10,3 +10,4 @@
 ![image](https://img.shields.io/badge/XML-2c2b2b?style=for-the-badge&logo=scala&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) 
+![image](https://img.shields.io/badge/C#-E34F26?style=for-the-badge&logo=linux&logoColor=black) 
