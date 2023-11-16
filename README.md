@@ -10,4 +10,5 @@
 ![image](https://img.shields.io/badge/XML-2c2b2b?style=for-the-badge&logo=scala&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) 
-![image](https://img.shields.io/badge/C#-E34F26?style=for-the-badge&logo=linux&logoColor=black) 
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
